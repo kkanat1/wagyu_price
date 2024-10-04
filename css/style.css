@@ -29,11 +29,7 @@ p {
   color: #343a40;
 }
 .card{
-  /* max-width: 20%; */
-
-}
-.card-img-top{
-  /* width: 200px; */
+  border-radius:0 ;
 }
 
 @media screen and (min-width:576px) {
